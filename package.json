@@ -1,0 +1,23 @@
+{
+  "name": "simple-weather",
+  "version": "1.0.0",
+  "description": "A simple script that retrieves the current temp (in Fahrenheit) for Chattanooga, TN, San Francisco, CA, and Zurich, Switzerland from the openweathermap API and writes to a text file.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addr/simple-weather.git"
+  },
+  "keywords": [
+    "weather",
+    "openweathermap"
+  ],
+  "author": "Andy Rice",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/addr/simple-weather/issues"
+  },
+  "homepage": "https://github.com/addr/simple-weather#readme"
+}
