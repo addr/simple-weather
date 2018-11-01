@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/addr/simple-weather/issues"
   },
-  "homepage": "https://github.com/addr/simple-weather#readme"
+  "homepage": "https://github.com/addr/simple-weather#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
